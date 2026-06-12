@@ -96,30 +96,7 @@ pip install -r requirements.txt
 4. Run the server
 
 python manage.py runserver
-
 ---
-
-## 🎯 Learning Outcomes
-
-* Full Stack Web Development
-* Django Framework
-* Database Management
-* Authentication Systems
-* Responsive UI Design
-* Git & GitHub Workflow
-
----
-
 ## 👨‍💻 Author
 
 **Sanyukt Kumar Rai**
-
-B.Tech – Computer Science & Engineering
-
-Institute of Technical Education and Research (ITER)
-
-Siksha 'O' Anusandhan University
-
----
-
-⭐ If you found this repository useful, consider giving it a star.
